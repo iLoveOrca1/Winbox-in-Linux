@@ -1,5 +1,7 @@
 # Winbox for Linux
 
+![preview](./assets/preview.png)
+
 This is just a script to create a desktop entry for winbox, not the entire winbox application on its own. You can download the executable manually from https://mikrotik.com/download. 
 
 ## How to install
