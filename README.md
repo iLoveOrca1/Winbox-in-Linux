@@ -1,6 +1,6 @@
 # Winbox for Linux
 
-This is just a script to create a desktop entry of winbox on a terminal, not the entire winbox application on its own.
+This is just a script to create a desktop entry for winbox, not the entire winbox application on its own. You can download the executable manually from https://mikrotik.com/download. 
 
 ## How to install
 
