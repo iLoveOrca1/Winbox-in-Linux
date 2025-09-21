@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=4.0
+Name=winbox
+Comment=RouterOs grahpical interface.
+Exec=winbox
+Icon=/usr/share/icons/winbox.png
+Terminal=false
+Categories=Utility;Network;Monitor
+StartupWMClass=winbox
