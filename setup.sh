@@ -10,5 +10,5 @@ fi
 cp -f ./assets/winbox.png /usr/share/icons/winbox.png
 cp -f ./assets/winbox.desktop /home/$username/.local/share/applications/winbox/winbox.desktop
 echo "Creating desktop entry for the user $username"
-cp -f winbox /usr/bin/winbox
+cp -f winbox /usr/local/bin/winbox
 
