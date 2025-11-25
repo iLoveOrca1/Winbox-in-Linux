@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
-DIRECTORY="/home/$username/.local/share/applications/winbox"
 read -p "Please enter your user: " username 
+DIRECTORY="/home/$username/.local/share/applications/winbox"
 
 chmod +x ./winbox
 if [ ! -e $DIRECTORY ]; then
